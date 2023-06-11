@@ -3,7 +3,7 @@
 *Links* form the connection between everything on the internet with each other. Nowadays, not a day goes by for the average user without clicking a few links here and there. Links, ultimately, are a way to navigate online content.
 
 With this new influx of many links, we want to make sure that these links serve their very purpose that comprises of three things :-
-- Making sure the receiver receives the **correct link** to the **right content**.
+- Making sure the receiver receives the **right link** to the **right content**.
 - Making sure the link is safe and is sent between the two respected parties **only**.
 - Making sure the link is **simple and memorable**, one that also **respects content and user privacy**.
 
