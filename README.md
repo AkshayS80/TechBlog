@@ -50,4 +50,4 @@ In today's business landscape, the secure sharing of information as well as maki
 
 The need for secure data transfer applies to virtually every industry and job category, as customers now place greater emphasis on data privacy. When utilizing link sharing and link shortening applications, businesses and clients must have unwavering confidence in the reliability of the products and platforms they employ, especially when it comes to sharing sensitive information.
 
-That is why at ***Linkborg***,we provide link sharing and link shortening services for you to improve and upgrade your internet user experience. Try us out **[here](https://linkb.org)**
+That is why at ***Linkborg*** ,we provide link sharing and link shortening services for you to improve and upgrade your internet user experience. Try us out **[here](https://linkb.org)**
