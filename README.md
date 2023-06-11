@@ -15,7 +15,7 @@ This can all be done with the help of a ***Link Sharing*** and ***Link Shortenin
 
 *Link sharing* is the process of sending a secure digital file to another person via a simple URL link. With link sharing, individuals can effortlessly direct others to valuable content, websites, articles, documents, videos, or any other online resource without having to worry about any constraints to file size or quality.
 
-### Why do you need a link sharing software?
+### Why do you need a link sharing platform?
 
 Sharing a file can be really arduous and unnecessarily complicated. Mostly due to size issues in the files themselves, one often has to move constantly between file sharing platforms to find the right platform to meet their sharing needs.
 
@@ -33,7 +33,7 @@ As such, link sharing provides a simple and more efficient way to share and comm
 
 *Link shortening* is the process of taking a long URL and shortening it to a simpler, more customized version that still directs it to the required content. These shortened links are easier to share, remember, and manage.
 
-### Why do you need a link shortener?
+### Why do you need a link shortener platform?
 
 Link shortening is useful in various situations where you need to share long URLs more effectively and efficiently. Let’s look at some situations where link shortening effectively:-
 
