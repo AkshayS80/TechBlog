@@ -1,5 +1,5 @@
 # The Power of Link Sharing and Link Shortening
-
+:---:
 Links form the connection between everything on the internet with each other. Nowadays, not a day goes by for the average user without clicking a few links here and there. Links, ultimately, is a way to navigate online content.
 
 With this new influx of many links, we want to make sure that these links serve their very purpose that comprises of three things :-
